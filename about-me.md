@@ -61,7 +61,7 @@
 
 ## 🏊‍♂️ Hobbies
 
-<img src="https://media.giphy.com/media/fYq4UEAcI960XJiti9/giphy.gif" width="800" height="600" />
+<img src="https://media.giphy.com/media/bbs6sIFJB37c5jHhsa/giphy.gif" width="800" height="600" />
 
 _연락 안 되면 높은 확률로 수영 중!_ 🏊‍♀️💻
 <br>
