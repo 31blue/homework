@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=300&section=header&text=Welcome%20to%20My%20🏊‍♀️%20Pool&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-# 안녕하세요! 🏊‍♀️💻 프로그래밍 세계에서 열심히 헤엄치는 김주희입니다
+# 안녕하세요! 🏊‍♀️💻 김주희입니다
 
 ## 🌊 About Me
 
