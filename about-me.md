@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=300&section=header&text=Welcome%20to%20My%20Working%20Pool&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=300&section=header&text=Welcome%20to%20My%20%20🏊‍♀️ Pool!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-# 안녕하세요! 🏊‍♀️💻 저는 김주희입니다
+# 안녕하세요! 🏊‍♀️💻 프로그래밍 세계에서 열심히 헤엄치는 김주희입니다
 
 ## 🌊 About Me
 
-멋쟁이사자처럼에서 프론트엔드 스쿨 12기를 수강 중인 초보 웹 개발자입니다.
+멋쟁이사자처럼에서 프론트엔드 스쿨 12기를 수강 중입니다.
 열심히 공부해서 실력 있는 개발자로 성장하고 싶습니다.
 
 <br>
@@ -61,8 +61,10 @@
 
 ## 🏊‍♂️ Hobbies
 
-<img src="https://media.giphy.com/media/9tx0gy37p7oXu/giphy.gif" width="600" height="500" />
+<img src="https://media.giphy.com/media/fYq4UEAcI960XJiti9/giphy.gif" width="800" height="600" />
 
 _연락 안 되면 높은 확률로 수영 중!_ 🏊‍♀️💻
-
+<br>
+<br>
+<br>
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=200&section=footer)
