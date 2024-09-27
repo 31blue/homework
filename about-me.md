@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=300&section=header&text=Welcome%20to%20My%20%20🏊‍♀️ Pool!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=300&section=header&text=Welcome%20to%20My%20🏊‍♀️%20Pool&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 # 안녕하세요! 🏊‍♀️💻 프로그래밍 세계에서 열심히 헤엄치는 김주희입니다
 
@@ -67,4 +67,4 @@ _연락 안 되면 높은 확률로 수영 중!_ 🏊‍♀️💻
 <br>
 <br>
 <br>
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:87CEEB&height=200&section=footer&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
