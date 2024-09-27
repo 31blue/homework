@@ -1,51 +1,68 @@
-# 안녕하세요! 👋 저는 김주희입니다
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=300&section=header&text=Welcome%20to%20My%20Working%20Pool&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-## 🚀 About Me
+# 안녕하세요! 🏊‍♀️💻 저는 김주희입니다
 
-저는 최근 프론트엔드를 배우고 있는 초보 웹 개발자입니다. 열심히 배워서 실력 있는 개발자가 되고 싶습니다.
+## 🌊 About Me
 
-## 🛠 Tech Stack
+멋쟁이사자처럼에서 프론트엔드 스쿨 12기를 수강 중인 초보 웹 개발자입니다.
+열심히 공부해서 실력 있는 개발자로 성장하고 싶습니다.
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![YOLO8](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<br>
 
-## 🔧 Tools
+## 🏊‍♀️ Tech Stack
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![YOLO8](https://img.shields.io/badge/-YOLO8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br>
+
+## 🧰 Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+<br>
 
 ## 🏆 Certifications
 
-GTQ(포토샵) 1급
-일러스트 2급
-운전면허 1급
-JLPT 3급
+- 🏄‍♀️ GTQ(포토샵) 1급
+- 🌊 일러스트 2급
+- 🚗 운전면허 1급
+- 🗾 JLPT 3급
 
-## 💼 Portfolio
+<br>
+
+## 🐠 Portfolio
 
 <table>
   <tr>
-    <td><img src="./assets/portfolio/portfolio-1.jpg" width="200"/></td>
-    <td><img src="./assets/portfolio/portfolio-2.jpg" width="200"/></td>
+    <td><img src="./assets/portfolio/portfolio-1.jpg" width="200" alt="포트폴리오 1"/></td>
+    <td><img src="./assets/portfolio/portfolio-2.jpg" width="200" alt="포트폴리오 2"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/portfolio/portfolio-3.jpg" width="200"/></td>
-    <td><img src="./assets/portfolio/portfolio-4.jpg" width="200"/></td>
-    <td><img src="./assets/portfolio/portfolio-5.jpg" width="200"/></td>
+    <td><img src="./assets/portfolio/portfolio-3.jpg" width="200" alt="포트폴리오 3"/></td>
+    <td><img src="./assets/portfolio/portfolio-4.jpg" width="200" alt="포트폴리오 4"/></td>
+    <td><img src="./assets/portfolio/portfolio-5.jpg" width="200" alt="포트폴리오 5"/></td>
   </tr>
 </table>
 
+<br>
+
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=blue-green)
+
+<br>
 
 ## 🏊‍♂️ Hobbies
 
-<img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/9tx0gy37p7oXu/giphy.gif" width="600" height="500" />
 
-_연락 안 되면 운동하는 중!_
+_연락 안 되면 높은 확률로 수영 중!_ 🏊‍♀️💻
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:1abc9c&height=200&section=footer)
