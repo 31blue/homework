@@ -1,0 +1,180 @@
+:root {
+  --primary-color: #03cf5d;
+  --focus-color: #24388d;
+  --text-color: #121212;
+  --border-color: #dadada;
+  --background-color: #fff;
+  --focus-background: #e9f0fd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.login-container {
+  max-width: 100%;
+  padding: 0 1.25rem;
+  margin: 0 auto;
+}
+
+.logo {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.logo svg {
+  width: 14.375rem;
+  height: auto;
+}
+
+.login-form {
+  margin-top: 1.25rem;
+}
+
+.input-group {
+  margin-bottom: 0.625rem;
+}
+
+.input-group input {
+  width: 100%;
+  height: 2.8125rem;
+  padding: 0 0.625rem;
+  font-size: 0.875rem;
+  border: 1px solid var(--border-color);
+  background-color: var(--background-color);
+}
+
+.input-group input:focus {
+  border-color: var(--primary-color);
+  background-color: var(--focus-background);
+  outline: none;
+}
+
+.login-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.625rem;
+  font-size: 0.875rem;
+}
+
+.login-keep {
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  line-height: 1;
+  padding-top: 8px;
+  cursor: help;
+  margin-left: 0.5rem;
+}
+
+.login-keep input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  border: none;
+  background: url("./../../assets/login/unchecked.svg") no-repeat center / contain;
+  transition: background 0.2s;
+}
+
+.login-keep input[type="checkbox"]:checked {
+  background: url("./../../assets/login/checked.svg") no-repeat center / contain;
+}
+
+.ip-security {
+  cursor: pointer;
+  display: none;
+  text-decoration: none;
+
+  .ip-security-label {
+    margin-right: 0.625rem;
+    text-decoration: none;
+  }
+}
+
+.ip-security-label:hover,
+.ip-security-label:focus {
+  text-decoration: none;
+  color: inherit;
+}
+
+.login-button {
+  width: 100%;
+  height: 2.8125rem;
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  color: var(--background-color);
+  background-color: var(--primary-color);
+  border: none;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .login-container {
+    max-width: 31.25rem;
+  }
+
+  .ip-security {
+    display: flex;
+    align-items: center;
+  }
+
+  .toggle-switch {
+    width: 2.5rem;
+    height: 1.25rem;
+    background-color: var(--border-color);
+    border-radius: 0.625rem;
+    position: relative;
+    border: none;
+    margin: 0 0.3125rem;
+    cursor: pointer;
+  }
+
+  .toggle-switch::before {
+    content: "";
+    position: absolute;
+    width: 1.125rem;
+    height: 1.125rem;
+    border-radius: 50%;
+    background-color: var(--background-color);
+    top: 0.0625rem;
+    left: 0.0625rem;
+    transition: 0.3s;
+  }
+
+  .toggle-switch[aria-pressed="true"] {
+    background-color: var(--primary-color);
+  }
+
+  .toggle-switch[aria-pressed="true"]::before {
+    left: 1.3125rem;
+  }
+}
